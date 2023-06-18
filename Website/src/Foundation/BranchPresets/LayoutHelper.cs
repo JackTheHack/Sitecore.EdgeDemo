@@ -17,6 +17,7 @@ namespace Sitecore.Demo.Edge.Foundation.BranchPresets
         {
             ApplyActionToAllSharedRenderings(item, action);
             ApplyActionToAllFinalRenderings(item, action);
+            
         }
 
         /// <summary>
